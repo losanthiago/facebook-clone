@@ -1,6 +1,6 @@
 # FACEBOOK CLONE
 
-<img src="" alt="landing-page">
+<img src="https://raw.githubusercontent.com/losanthiago/facebook-clone/master/landing-page.png" alt="landing-page">
 
 Hello, my name is Thiago and this project was carried out with the help of some youtube developers. Project created with the intention of improving my knowledge in HTML/CSS.
 
